@@ -1,0 +1,7 @@
+aiofiles
+fastapi
+uvicorn
+Jinja2
+mangum
+openai
+python-multipart
